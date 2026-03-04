@@ -6,7 +6,7 @@ Desafío técnico: Implementación de un sistema de permisos basado en roles (RB
 Desafío técnico: Optimización de carga (Core Web Vitals) y diseño responsivo avanzado.
 
 Stack: 
-p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,astro,tailwind,vim,angular" />
   </a>
@@ -17,14 +17,14 @@ Backend:
 Java (Spring Boot, Hibernate) y Python (Django, Flask). Manejo de mapeo objeto-relacional (ORM) y diseño de APIs REST.
 
 Stack: 
-p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,django,flask,hibernate" />
   </a>
 </p>
 
 Bases de Datos: 
-p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql" />
   </a>
