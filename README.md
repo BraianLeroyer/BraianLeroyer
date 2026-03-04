@@ -1,9 +1,8 @@
 Braian | Full Stack Developer
 Desarrollador enfocado en la creación de aplicaciones web escalables, con especial interés en el diseño de arquitecturas backend robustas y la gestión eficiente de datos. Mi experiencia se centra en integrar la lógica de negocio compleja con interfaces de usuario modernas y de alto rendimiento.
 Lenguajes: 
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/0e1015ba-390e-4a7f-84db-87f3ec3f968b" /> <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/34dc8f3e-57aa-4628-b688-bd223f1287d1" /> <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/2f9241e4-bfb1-4d01-aee3-ba2dcc838692" /> <img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/b5f9c801-80c1-49d6-8a1b-370b6834cfc7" />
 
-
+angular
 
 
 
